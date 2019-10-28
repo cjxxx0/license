@@ -1,0 +1,15 @@
+model/*
+
+data/*
+.idea/*
+tfrecords/*
+
+*.pyc
+jobs/*
+*.jpg
+
+t
+*.log
+test_data/*
+
+plate_map.json
